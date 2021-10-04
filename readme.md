@@ -1,3 +1,5 @@
+### 用户手册
+https://github.com/ranger/ranger/wiki/Official-user-guide
 ### ranger安装
 ```shell
 $ sudo apt-get install ranger
